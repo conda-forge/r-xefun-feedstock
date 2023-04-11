@@ -1,11 +1,11 @@
-About r-xefun
-=============
+About r-xefun-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xefun-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ShichenXie/xefun
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xefun-feedstock/blob/main/LICENSE.txt)
 
 Summary: Miscellaneous functions used for x-engineering (feature engineering) or for supporting in other packages maintained by 'Shichen Xie'.
 
