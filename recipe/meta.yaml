@@ -1,6 +1,5 @@
 {% set version = "0.1.5" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-xefun
@@ -13,8 +12,7 @@ source:
   sha256: 52b07e1521444e3309f01ba4937ce015271cd63f011ef37ef3ab7758624fed67
 
 build:
-  merge_build_host: true  # [win]
-  number: 0
+  number: 1
   noarch: generic
   rpaths:
     - lib/R/lib/
